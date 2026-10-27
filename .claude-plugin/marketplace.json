@@ -1,0 +1,8 @@
+{
+  "name": "dept-skills",
+  "owner": { "name": "XX部门" },
+  "plugins": [
+    { "name": "commit-msg", "source": "./skills/commit-msg" },
+    { "name": "release-note", "source": "./skills/release-note" }
+  ]
+}
