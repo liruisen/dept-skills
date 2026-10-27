@@ -24,6 +24,8 @@ git clone https://github.com/liruisen/dept-skills && cd dept-skills && ./install
 
 更新：`git pull && ./install.sh`
 
+> Windows 同事：在 Git Bash 里运行（装 Git 就有）。脚本复制安装的部分完全一致；Claude Code 软链在 Windows 上会退化为复制，更新时重跑一遍脚本即可（更新流程本来就是 `git pull && ./install.sh`，无额外操作）。WSL 下完全原生。
+
 **Node 环境**
 
 ```sh
