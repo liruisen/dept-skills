@@ -14,7 +14,7 @@
 **任何环境（推荐）**
 
 ```sh
-git clone <本仓库地址> && cd dept-skills && ./install.sh
+git clone https://github.com/liruisen/dept-skills && cd dept-skills && ./install.sh
 ```
 
 更新：`git pull && ./install.sh`
@@ -22,14 +22,14 @@ git clone <本仓库地址> && cd dept-skills && ./install.sh
 **Node 环境**
 
 ```sh
-npx skills add <本仓库地址>
+npx skills add https://github.com/liruisen/dept-skills
 npx skills update
 ```
 
 **客户端（Claude Code / ZCode）**
 
 ```
-/plugin marketplace add <owner>/dept-skills
+/plugin marketplace add liruisen/dept-skills
 ```
 
 **最省事**：把仓库链接发给你的 Agent，说「把这个仓库的 skill 装上」，授权它自己处理。
