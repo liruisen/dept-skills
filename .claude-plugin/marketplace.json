@@ -3,6 +3,9 @@
   "owner": { "name": "XX部门" },
   "plugins": [
     { "name": "commit-msg", "source": "./skills/commit-msg" },
-    { "name": "release-note", "source": "./skills/release-note" }
+    { "name": "release-note", "source": "./skills/release-note" },
+    { "name": "tech-doc-style-chinese", "source": "./skills/tech-doc-style-chinese" },
+    { "name": "netlify-publish", "source": "./skills/netlify-publish" },
+    { "name": "archify", "source": "./skills/archify" }
   ]
 }

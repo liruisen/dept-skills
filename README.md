@@ -8,6 +8,11 @@
 | --- | --- |
 | commit-msg | 按项目规范生成 Git 提交信息 |
 | release-note | 两段式发版说明：交测试明细 + 审批留档简报 |
+| [tech-doc-style-chinese](https://github.com/Fenng/tech-doc-style-chinese) | 克制、准确、可扫读的中文技术写作风格 |
+| netlify-publish | 静态页面一键发布到 Netlify，一句话出公开链接 |
+| [archify](https://github.com/tt-a1i/archify) | 架构图/流程图/时序图生成可交互 HTML，支持导出 |
+
+> tech-doc-style-chinese 来自 [Fenng/tech-doc-style-chinese](https://github.com/Fenng/tech-doc-style-chinese)（作者 Fenng）；archify 来自 [tt-a1i/archify](https://github.com/tt-a1i/archify)（v3.2.0，MIT）。第三方 skill 固定版本引入，升级走 MR。
 
 ## 安装（选一种）
 
