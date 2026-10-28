@@ -41,7 +41,7 @@ Claude Code（命令）：
 /plugin marketplace add liruisen/dept-skills
 ```
 
-ZCode（界面）：打开「插件市场」→「添加插件市场」，粘贴仓库地址 `https://github.com/liruisen/dept-skills`，之后在界面里安装更新（auto-update 默认关闭）。
+ZCode / Codex / WorkBuddy（界面）：在各自客户端的「插件市场」里添加本仓库地址 `https://github.com/liruisen/dept-skills`，之后在界面里安装更新（auto-update 默认关闭）。
 
 **最省事**：把仓库链接发给你的 Agent，说「把这个仓库的 skill 装上」，授权它自己处理。
 
